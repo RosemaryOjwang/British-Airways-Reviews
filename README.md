@@ -15,15 +15,15 @@ This interactive Tableau dashboard visualizes passenger review data for British 
 
 
 ## Key Features
-Filterable by:
+**Filterable by**:
 
-Rating metric (e.g. Seat Comfort, Cabin Staff Service, Food, etc.)
+`- Rating metric (e.g. Seat Comfort, Cabin Staff Service, Food, etc.)
 
-Date range
+- Date range
 
-Traveller Type (e.g. Solo Leisure)
+- Traveller Type (e.g. Solo Leisure)
 
-Seat Type, Aircraft Tyi, and Continent
+- Seat Type, Aircraft Tyi, and Continent
 
 
 ---
@@ -48,11 +48,11 @@ Visual breakdown of rating trends and aircraft-specific performance
 ---
 
 ## Tools Used
-Tableau Desktop for dashboard creation
+- Tableau Desktop for dashboard creation
 
-OpenStreetMap & Map for geospatial visualization
+- OpenStreetMap & Map for geospatial visualization
 
-Airline review dataset (source anonymized for this demo)
+- Airline review dataset (source anonymized for this demo)
 
 
 ---
