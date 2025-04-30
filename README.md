@@ -15,7 +15,7 @@ This dashboard analyzes user-submitted reviews of British Airways flights from 2
 ## Demo
 ![Demo](TableauPublic-Book12025-04-2906-53-48-ezgif.com-video-to-gif-converter.gif)
 
-(View the Interactiobe Dashboard on Tableau.)[https://public.tableau.com/app/profile/rosemary.ojwang/viz/BritishAirwaysReviews_17459001753520/Dashboard1]
+[View the Interactiobe Dashboard on Tableau.](https://public.tableau.com/app/profile/rosemary.ojwang/viz/BritishAirwaysReviews_17459001753520/Dashboard1)
 
 
 ---
